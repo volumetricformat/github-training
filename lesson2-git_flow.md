@@ -10,7 +10,7 @@ nav_order: 4
 
 **Click here to for [An interactive review of the GitHub Workflow](https://guides.github.com/introduction/flow/)**
   
-![GitHub Workflow](./gifs/Gitflow.gif)
+![GitHub Workflow](./docs/gifs/Gitflow.gif)
 **GitHub Steps**
 1. Create Branch 
 2. Commit Changes
