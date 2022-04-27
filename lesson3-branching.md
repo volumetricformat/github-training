@@ -7,7 +7,7 @@ nav_order: 5
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
 
 # 1. Branching Defined
-![GitHub Workflow](./docs/img/github-workflow.png)
+![GitHub Workflow](./assets/img/github-workflow.png)
 
 When you create a branch, you are essentially creating an identical copy of the project at that point in time. This isn't the same as creating a physical copy on disk. In the background, a branch is just a pointer.
 
