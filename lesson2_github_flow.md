@@ -12,7 +12,7 @@ nav_order: 5
   
 ![GitHub Workflow](./docs/gifs/Gitflow.gif)
 **GitHub Steps**
-1. [Create Branch](https://github.com/seanmcilroy29/github-training/new/main#2-create-branch) 
+1. [Create Branch](https://seanmcilroy29.github.io/github-training/lesson2_branching.html#1-the-essential-github-workflow) 
 2. Commit Changes
 3. Open Pull Request
 4. Discuss and review your code
