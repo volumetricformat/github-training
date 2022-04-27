@@ -1,5 +1,5 @@
 title: GitHub and GitHub Pages # *** Enter workshop title here 
-subtitle: 'A Data Analysis Support Hub Tutorial'
+subtitle: 'Open19 GitHub Support Tutorial'
 
 remote_theme: scds/just-the-docs
 github_repo_url: "https://scds.github.io/github-pages/" # ***Enter workshop URL (in github pages) here
