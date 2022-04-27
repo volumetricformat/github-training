@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lesson 1 - Learn GitHub
+title: Learn GitHub
 nav_order: 4
 ---
 
