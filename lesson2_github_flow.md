@@ -14,11 +14,11 @@ nav_order: 5
 
 **GitHub Steps**
 1. [Create Branch](https://seanmcilroy29.github.io/github-training/lesson2_github_flow.html#2-create-branch) 
-2. Commit Changes
-3. Open Pull Request
-4. Discuss and review your code
-5. Deploy/test changes
-6. Merge branch
+2. [Commit Changes](https://seanmcilroy29.github.io/github-training/lesson2_github_flow.html#3-add-commits)
+3. [Open Pull Request](https://seanmcilroy29.github.io/github-training/lesson2_github_flow.html#4-open-pull-request)
+4. [Discuss and review your code](https://seanmcilroy29.github.io/github-training/lesson2_github_flow.html#5-discuss-and-review-your-code)
+5. [Deploy/test changes](https://seanmcilroy29.github.io/github-training/lesson2_github_flow.html#6-deploy)
+6. [Merge branch](https://seanmcilroy29.github.io/github-training/lesson2_github_flow.html#7-merge)
 
 ## 1. The Essential GitHub Workflow
 The GitHub flow is a lightweight workflow that allows you to experiment with new ideas safely, without fear of compromising a project.
