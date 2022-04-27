@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lesson 2 - Creating a branch
+title: Lesson 2 - GitHub flow
 nav_order: 5
 ---
 
