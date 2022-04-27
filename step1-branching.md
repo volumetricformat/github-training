@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lesson 4 - Creating a branch
+title: Step 1 - Creating a branch
 nav_order: 5
 ---
 
