@@ -11,8 +11,9 @@ nav_order: 5
 **Click here to for [An interactive review of the GitHub Workflow](https://guides.github.com/introduction/flow/)**
   
 ![GitHub Workflow](./docs/gifs/Gitflow.gif)
+
 **GitHub Steps**
-1. [Create Branch](https://seanmcilroy29.github.io/github-training/lesson2_branching.html#1-the-essential-github-workflow) 
+1. [Create Branch](https://seanmcilroy29.github.io/github-training/lesson2_github_flow.html#2-create-branch) 
 2. Commit Changes
 3. Open Pull Request
 4. Discuss and review your code
@@ -22,7 +23,7 @@ nav_order: 5
 ## 1. The Essential GitHub Workflow
 The GitHub flow is a lightweight workflow that allows you to experiment with new ideas safely, without fear of compromising a project.
 
-## 2. [Create Branch]
+## 2. Create Branch
 When you're working on a project, you're going to have a bunch of different features or ideas in progress at any given time – some of which are ready to go, and others which are not. Branching exists to help you manage this workflow.
 
 
