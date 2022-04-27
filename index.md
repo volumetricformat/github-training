@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-description: A Data Analysis Support Hub Tutorial
+description: OpenChain GitHub Tutorial
 nav_order: 1
 ---
 
