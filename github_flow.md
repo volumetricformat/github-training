@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lesson 3 - GitHub flow
+title: Start point - GitHub flow
 nav_order: 5
 ---
 
