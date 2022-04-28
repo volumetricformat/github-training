@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Step 4 - Adding Comments to a PR
+title: Step 4 - Adding PR Comments
 nav_order: 11
 ---
 
