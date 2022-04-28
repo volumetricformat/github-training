@@ -1,8 +1,4 @@
----
-layout: default
-title: Lesson 3 - GitHub Pages
-nav_order: 16
----
+
 
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
 # Lesson 3: Create web pages with GitHub Pages
