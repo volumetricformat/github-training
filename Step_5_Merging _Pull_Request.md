@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Step 3 - Merging Pull Request
+title: Step 5 - Merging Pull Request
 nav_order: 11
 ---
 
