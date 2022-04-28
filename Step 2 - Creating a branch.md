@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Step 2 - Creating a branch
+title: Step 2 - Commit changes
 nav_order: 8
 ---
 
