@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Step 3 - Creating Pull Request
-nav_order: 10
+title: Step 4 - Adding Comments to a PR
+nav_order: 11
 ---
 
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
