@@ -8,7 +8,7 @@ nav_order: 1
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end 
 -->
 
-<img src="assets/img/GSF_logo_logo_2 (1).jpg" alt="OpenChain" width="720">
+<img src="assets/img/vfa_logo.jpg" alt="VFA" width="720">
 <br>
 # Getting started with GitHub and GitHub Pages. 
 Maybe you've heard of GitHub and would like to learn more about how it works. Maybe you've heard how it's possible to make easy and simple webpages using GitHub and GitHub Pages and want to try. Or maybe, you knew none of this but are intrigued nonetheless. In any of those cases, this tutorial is for you.  
