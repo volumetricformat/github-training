@@ -10,7 +10,7 @@ nav_order: 3
 
 # Introduction
 
-## 1. [Optional] Introduction to GitHub
+## 1. Introduction to GitHub
 (optional) Watch the following short introductory video ***What is GitHub?***   
 <iframe width="719" height="480" src="https://www.youtube.com/embed/w3jLJU7DT5E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
