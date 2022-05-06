@@ -9,7 +9,7 @@ nav_order: 2
 -->
 
 
-# Workshop preparation 
+# Getting Started
 
 ## 1. Create a GitHub account
 - Navigate to [GitHub](https://github.com) and sign up for an account if you don't already have one. 
